@@ -27,6 +27,8 @@ Today, the software supports both **automatic and manual modes**, fully customiz
 ![Features](https://rrsys.org/wp-content/uploads/2022/09/Roulette-Number-Tracking-features-overview.png)
 
 
+
+
 ## 🤖 How It Works
 
 ### ✅ 1. Automatic Number Detection
@@ -61,6 +63,22 @@ Based on the AI output:
 | $37,400          | $38,500       | $10       | ~1.5 hours | Pragmatic Play Live Table |
 
 ---
+<h2 align="center">
+  <a href="https://rrsys.org/roulette-number-tracking/" target="_blank" style="text-decoration: none;">
+    <span style="
+      display: inline-block;
+      background-color: #e63946;
+      color: white;
+      font-size: 20px;
+      padding: 15px 30px;
+      border-radius: 8px;
+      font-weight: bold;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    ">
+      🛒 BUY NOW
+    </span>
+  </a>
+</h2>
 
 ## 🕹️ Automatic & Manual Modes
 
@@ -120,7 +138,22 @@ Based on the AI output:
 ---
 
 
-
+<h2 align="center">
+  <a href="https://rrsys.org/roulette-number-tracking/" target="_blank" style="text-decoration: none;">
+    <span style="
+      display: inline-block;
+      background-color: #e63946;
+      color: white;
+      font-size: 20px;
+      padding: 15px 30px;
+      border-radius: 8px;
+      font-weight: bold;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    ">
+      🛒 BUY NOW
+    </span>
+  </a>
+</h2>
 
 ---
 
