@@ -54,7 +54,7 @@ Based on the AI output:
 ---
 ## 🎥 Demo Video
 
-[![Watch on YouTube](https://i.ytimg.com/vi/EwKxHeAxPmk/maxresdefault.jpg)](https://www.youtube.com/watch?v=QwXfLmY3kG8)
+[![Watch on YouTube](https://i.ytimg.com/vi/EwKxHeAxPmk/maxresdefault.jpg)](https://youtu.be/EwKxHeAxPmk?si=eyJwQzLtdvm14X5u)
 
 ## 📈 Live Session Example
 
